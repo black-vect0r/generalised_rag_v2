@@ -1,0 +1,26 @@
+
+**AI Friday Season 2 – Problem Statements**
+
+**Capital Markets Trade Query and Explanation Agent**
+
+**PROBLEM STATEMENT**
+
+Traders and analysts require quick explanations of complex trade data and market events to make informed decisions. Existing tools often provide raw data without context, causing delays in understanding trade implications. An AI agent capable of answering natural language queries about trades and explaining market impact would enhance decision-making.
+
+---
+
+**Data Considerations (Guidelines):**
+
+- Historical trade datasets  
+- Real-time market APIs  
+- Regulatory documentation  
+- Synthetic data generation where appropriate using the provided environment  
+
+---
+
+**SOLUTION EXPECTATIONS**
+
+- A web interface allowing users to query trade data  
+- AI-generated explanations with supporting data visualizations  
+- Deliverables: trade query app, user guide, and technical documentation  
+- Creativity encouraged to go beyond the stated needs  

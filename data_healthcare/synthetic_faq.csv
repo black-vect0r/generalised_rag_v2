@@ -1,0 +1,8 @@
+category,query,response
+Reschedule,How do I reschedule my appointment?,Share your appointment ID and preferred date/time window. I’ll suggest available slots.
+Cancel,Can I cancel my appointment?,Yes. Please provide the appointment ID. Cancellations are free up to 2 hours before the slot.
+Prep,Do I need to fast before a blood test?,Some tests require 8–10 hours fasting. Water is usually allowed. I can confirm for your specific test.
+Arrival,How early should I arrive?,Please arrive 10–15 minutes early for in-person visits.
+Teleconsultation,When will I get the teleconsultation link?,The link is shared about 15 minutes before the scheduled slot.
+Reports,What documents should I bring?,"Bring previous reports, prescriptions, and a list of current medications."
+Post-care,What should I do after my visit?,Follow prescribed medicines and instructions. Contact the clinic if symptoms worsen.

@@ -1,0 +1,51 @@
+patient_id,patient_name,age,gender,phone,email,preferred_channel,created_at
+1,Diya Banerjee,29,M,+917277352236,diya.banerjee387@gmail.com,WhatsApp,2024-03-01 20:53:00
+2,Priya Sharma,48,F,+918774837564,priya.sharma224@gmail.com,SMS,2024-07-27 17:46:00
+3,Meera Verma,57,M,+916153064473,meera.verma298@outlook.com,Email,2024-06-17 13:05:00
+4,Kabir Patel,72,Other,+919201916019,kabir.patel845@outlook.com,Email,2024-11-06 11:56:00
+5,Meera Khan,43,Other,+919126409863,meera.khan9@gmail.com,SMS,2024-07-22 00:33:00
+6,Riya Chatterjee,33,M,+918257219538,riya.chatterjee606@yahoo.com,In-app Chat,2024-05-16 05:54:00
+7,Riya Khan,60,Other,+919650525112,riya.khan331@example.com,SMS,2024-05-14 00:47:00
+8,Priya Iyer,32,F,+916161140186,priya.iyer185@gmail.com,Phone,2024-05-20 15:37:00
+9,Priya Chatterjee,59,M,+917513744853,priya.chatterjee618@example.com,Email,2024-06-23 14:21:00
+10,Saanvi Verma,51,M,+918016312213,saanvi.verma34@outlook.com,In-app Chat,2024-02-07 19:10:00
+11,Sneha Singh,24,M,+918251167945,sneha.singh355@example.com,SMS,2024-12-16 00:23:00
+12,Diya Patel,5,M,+916012327768,diya.patel65@yahoo.com,Phone,2024-04-14 01:08:00
+13,Pooja Gupta,44,Other,+919837815179,pooja.gupta396@outlook.com,WhatsApp,2024-02-11 05:48:00
+14,Saanvi Das,53,M,+917886209140,saanvi.das168@gmail.com,WhatsApp,2024-10-07 03:30:00
+15,Karan Iyer,38,F,+917414331058,karan.iyer860@outlook.com,WhatsApp,2024-05-04 04:56:00
+16,Priya Mehta,30,M,+917575302397,priya.mehta65@gmail.com,Email,2024-09-18 20:09:00
+17,Vihaan Singh,16,Other,+919742347509,vihaan.singh17@gmail.com,Email,2024-05-03 16:56:00
+18,Sneha Banerjee,49,M,+917123642569,sneha.banerjee596@outlook.com,Phone,2024-08-27 02:01:00
+19,Kabir Roy,17,F,+916892882545,kabir.roy361@example.com,In-app Chat,2024-10-14 03:05:00
+20,Kabir Chatterjee,18,M,+917710927808,kabir.chatterjee718@gmail.com,In-app Chat,2024-03-01 23:51:00
+21,Neha Banerjee,19,M,+917768145543,neha.banerjee614@gmail.com,SMS,2024-01-18 05:27:00
+22,Pooja Iyer,30,F,+919960537710,pooja.iyer972@gmail.com,SMS,2024-01-10 17:05:00
+23,Priya Sharma,37,M,+918420436847,priya.sharma883@example.com,WhatsApp,2024-07-05 22:22:00
+24,Priya Singh,56,F,+917263609398,priya.singh986@yahoo.com,In-app Chat,2024-01-12 10:48:00
+25,Diya Roy,36,F,+918691227655,diya.roy978@example.com,SMS,2024-05-02 03:51:00
+26,Kabir Verma,40,M,+919280196749,kabir.verma345@yahoo.com,Phone,2024-03-16 19:07:00
+27,Pooja Patel,57,Other,+917317024688,pooja.patel707@example.com,In-app Chat,2024-12-07 17:06:00
+28,Pooja Banerjee,47,Other,+918335114689,pooja.banerjee389@example.com,Phone,2024-02-06 02:41:00
+29,Vihaan Khan,43,F,+919431881481,vihaan.khan712@gmail.com,Email,2024-07-16 00:16:00
+30,Aarav Patel,30,Other,+916384921751,aarav.patel389@yahoo.com,Email,2024-08-15 08:12:00
+31,Vihaan Nair,23,M,+916796013388,vihaan.nair386@outlook.com,In-app Chat,2024-01-28 06:11:00
+32,Priya Joshi,17,F,+918528778366,priya.joshi56@example.com,Phone,2024-11-30 15:30:00
+33,Arjun Iyer,37,M,+917901063856,arjun.iyer912@gmail.com,SMS,2024-07-24 03:33:00
+34,Meera Nair,19,F,+916418649289,meera.nair589@gmail.com,In-app Chat,2024-07-27 19:57:00
+35,Diya Gupta,40,Other,+918304754632,diya.gupta120@example.com,SMS,2024-06-08 03:43:00
+36,Saanvi Khan,53,M,+917278933212,saanvi.khan348@gmail.com,SMS,2024-01-19 07:39:00
+37,Diya Banerjee,22,M,+917625334355,diya.banerjee738@gmail.com,In-app Chat,2024-07-19 01:26:00
+38,Ishaan Singh,18,M,+916679215504,ishaan.singh569@outlook.com,In-app Chat,2024-01-28 08:57:00
+39,Vihaan Roy,65,M,+919985779740,vihaan.roy762@example.com,WhatsApp,2024-01-24 22:18:00
+40,Neha Iyer,28,M,+919120176027,neha.iyer210@example.com,WhatsApp,2024-02-07 01:04:00
+41,Ishaan Patel,52,Other,+918092691173,ishaan.patel556@yahoo.com,WhatsApp,2024-09-20 02:31:00
+42,Diya Patel,34,F,+917361281405,diya.patel277@yahoo.com,WhatsApp,2024-03-17 19:06:00
+43,Saanvi Banerjee,24,F,+918968489851,saanvi.banerjee549@example.com,Email,2024-12-22 15:05:00
+44,Arjun Khan,44,F,+918563090497,arjun.khan363@gmail.com,Phone,2024-11-17 03:26:00
+45,Pooja Mehta,40,Other,+919406829894,pooja.mehta748@outlook.com,In-app Chat,2024-03-12 02:32:00
+46,Ishaan Verma,50,Other,+916083602977,ishaan.verma701@gmail.com,SMS,2024-07-13 19:52:00
+47,Pooja Mehta,4,M,+918176821577,pooja.mehta269@yahoo.com,Phone,2024-02-06 19:20:00
+48,Ishaan Nair,49,M,+919487677595,ishaan.nair153@example.com,Email,2024-03-21 03:43:00
+49,Arjun Mehta,39,M,+918542086974,arjun.mehta641@yahoo.com,In-app Chat,2024-01-18 00:45:00
+50,Rahul Mehta,40,Other,+917865162100,rahul.mehta752@example.com,In-app Chat,2024-01-05 14:30:00
