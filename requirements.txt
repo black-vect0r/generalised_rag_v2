@@ -8,3 +8,4 @@ chromadb
 pdfminer.six
 httpx
 tiktoken
+python-dotenv

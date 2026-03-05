@@ -18,8 +18,11 @@ Query: {query}
 
 Return ONLY: QA or SUMMARY or INSIGHT or DATA
 """
-    response = llm.invoke(prompt)
-    route = response.content.strip().upper()
+    try:
+        response = llm.invoke(prompt)
+        route = response.content.strip().upper()
+    except Exception:
+        return "QA"
 
     if "DATA" in route:
         return "DATA"
